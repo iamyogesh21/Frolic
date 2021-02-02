@@ -1,2 +1,2 @@
 # Frolic(e-commerce website)
-<a href="https://iamyogesh21.github.io/Frolic/">Click here </a>
+<a href="https://yogesh2104.github.io/Frolic/">Click here </a>
